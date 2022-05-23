@@ -1,14 +1,13 @@
 # Exercícios logica de programação
 
 
-### Exercicios feitos durante a trilha logica de programação.
+##### Exercicios feitos durante a trilha logica de programação.
 
-### No programa DevStart! Be.Academy & Paylivre.
+#### No programa DevStart! Be.Academy & Paylivre.
 
-----
+
 
 ## Algoritmos
----
 [Sistema bancario](./algoritmos/SistemaBanco.por)
 
 [Calculo IMC](./algoritmos/imc.por)
@@ -21,14 +20,11 @@
 
 [Conversão de temperatura e medidas](./algoritmos/tabuada.por)
 
----
 ## IDE utilizada
-----
 
 [Portugol WEBSTUDIO](https://portugol-webstudio.cubos.io/ide)
 
 
 ## Autor
-----
 
 [@Elivandro 🔥😀🚀](https://www.github.com/Elivandro/)
