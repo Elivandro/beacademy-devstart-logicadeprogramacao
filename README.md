@@ -26,6 +26,7 @@
 
 [Calcular Média](./algoritmos/CalcularMedia.por)
 
+[Cadastro de Cliente](./algoritmos/CadastroUsuario.por)
 
 ## IDE utilizada
 
