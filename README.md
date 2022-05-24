@@ -20,6 +20,9 @@
 
 [Conversão de temperatura e medidas](./algoritmos/tabuada.por)
 
+[Verificar Usuario](./algoritmos/VerificarUsuario.por)
+
+
 ## IDE utilizada
 
 [Portugol WEBSTUDIO](https://portugol-webstudio.cubos.io/ide)
