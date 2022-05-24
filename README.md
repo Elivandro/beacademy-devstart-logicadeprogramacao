@@ -24,6 +24,8 @@
 
 [Calculo juros simples](./algoritmos/JurosSimples.por)
 
+[Calcular Média](./algoritmos/CalcularMedia.por)
+
 
 ## IDE utilizada
 
