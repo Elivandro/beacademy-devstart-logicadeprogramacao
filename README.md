@@ -12,7 +12,7 @@
 
 [Calculo IMC](./algoritmos/imc.por)
 
-[Verifica idade e maioridade](./algoritmos/verificaIdade.por)
+[Verifica idade e maioridade](./algoritmos/verificarIdade.por)
 
 [Calculadora Simples](./algoritmos/CalculadoraSimples.por)
 
