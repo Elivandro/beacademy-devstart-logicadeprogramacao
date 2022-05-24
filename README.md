@@ -22,6 +22,8 @@
 
 [Verificar Usuario](./algoritmos/VerificarUsuario.por)
 
+[Calculo juros simples](./algoritmos/JurosSimples.por)
+
 
 ## IDE utilizada
 
