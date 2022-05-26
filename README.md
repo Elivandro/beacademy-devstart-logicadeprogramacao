@@ -1,37 +1,41 @@
 # Exercícios logica de programação
 
-
 ##### Exercicios feitos durante a trilha logica de programação.
 
 #### No programa DevStart! Be.Academy & Paylivre.
 
-
-
 ## Algoritmos
-[Sistema bancario](./algoritmos/SistemaBanco.por)
+[1. Calculo IMC](./algoritmos/exercicio1.por)
 
-[Calculo IMC](./algoritmos/imc.por)
+[2. Sistema bancario](./algoritmos/exercicio2.por)
 
-[Verifica idade e maioridade](./algoritmos/verificarIdade.por)
+[3. Calculadora Simples](./algoritmos/exercicio3.por)
 
-[Calculadora Simples](./algoritmos/CalculadoraSimples.por)
+[4. Tabuada desejada](./algoritmos/exercicio4.por)
 
-[Tabuada do numero desejado](./algoritmos/tabuada.por)
+[5. Multiplos de 2 ou 3](./algoritmos/exercicio5.por)
 
-[Conversão de temperatura e medidas](./algoritmos/tabuada.por)
+[6. Verifica idade e maioridade](./algoritmos/exercicio6.por)
 
-[Verificar Usuario](./algoritmos/VerificarUsuario.por)
+[7. Cadastro de Produtos](./algoritmos/exercicio7.por)
 
-[Calculo juros simples](./algoritmos/JurosSimples.por)
+[8. Calcular Média](./algoritmos/exercicio8.por)
 
-[Calcular Média](./algoritmos/CalcularMedia.por)
+[9. Calcular Área circulo](./algoritmos/exercicio9.por)
 
-[Cadastro de Cliente](./algoritmos/CadastroUsuario.por)
+[10. Conversão de temperatura e medidas](./algoritmos/exercicio10.por)
+
+[11. Verificar Usuario](./algoritmos/exercicio11.por)
+
+[12. Calculo juros simples](./algoritmos/exercicio12.por)
+
+[13. Cadastro de Cliente](./algoritmos/exercicio13.por)
+
+[14. Verificar se é numero primo](./algoritmos/exercicio14.por)
 
 ## IDE utilizada
 
 [Portugol WEBSTUDIO](https://portugol-webstudio.cubos.io/ide)
-
 
 ## Autor
 
