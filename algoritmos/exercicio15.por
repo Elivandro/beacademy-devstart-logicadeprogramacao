@@ -6,7 +6,7 @@ programa
 	funcao inicio()
 	{
 		//declara as variavéis
-		real valorDivida, valorDevido = 0, valorJuros = 0
+		real valorDivida, valorDevido, valorJuros = 0.00
 		inteiro parcelas, i = 0
 
 		escreva(".......Juros compostos.......\n")
@@ -31,7 +31,7 @@ programa
 			//soma o valor dos juros com a divida
 			valorDevido = valorJuros + valorDivida
 			escreva("Taxa de juros 2% a.m\n")
-			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2))	
+			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2) +"\n")	
 		}senao se(parcelas > 3 e parcelas <= 6){
 			//executa a rotina 3% de juros
 			enquanto(i < parcelas){
@@ -45,7 +45,7 @@ programa
 			//soma o valor dos juros com a divida
 			valorDevido = valorJuros + valorDivida
 			escreva("Taxa de juros 3% a.m\n")
-			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2))
+			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2) +"\n")
 		}senao se(parcelas > 6 e parcelas <= 9){
 			//executa a rotina 5% de juros
 			enquanto(i < parcelas){
@@ -59,7 +59,7 @@ programa
 			//soma o valor dos juros com a divida
 			valorDevido = valorJuros + valorDivida
 			escreva("Taxa de juros 5% a.m\n")
-			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2))
+			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2) +"\n")
 		}senao{
 			//executa a rotina 15% de juros
 			enquanto(i < parcelas){
@@ -73,7 +73,7 @@ programa
 			//soma o valor dos juros com a divida
 			valorDevido = valorJuros + valorDivida
 			escreva("Taxa de juros 15% a.m\n")
-			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2))
+			escreva("Valor total pago: "+ math.arredondar(valorDevido, 2) +"\n")
 		}
 	}
 }
