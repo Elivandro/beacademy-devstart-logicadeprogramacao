@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		cadeia usuario = "Elivandro", senha = "DevStarter", EnterUser, EnterSenha
+		cadeia usuario = "Elivandro", senha = "paylivre", EnterUser, EnterSenha
 		inteiro chances = 5
 			
 		faca{
