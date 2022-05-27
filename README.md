@@ -1,6 +1,6 @@
 # Exercícios logica de programação
 
-##### Exercicios feitos durante a trilha logica de programação.
+#### Exercicios feitos durante a trilha logica de programação.
 
 #### No programa DevStart! Be.Academy & Paylivre.
 
